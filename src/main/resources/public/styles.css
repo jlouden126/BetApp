@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#bet-list {
+    margin-top: 20px;
+}
+
+.bet-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.bet-table th, .bet-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.bet-table th {
+    background-color: #eee;
+}
+
+.bookmaker-section {
+    margin-bottom: 20px;
+}
+
+.bookmaker-header {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.bet-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.bet-table th, .bet-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+
+.bet-table th {
+    background-color: #eee;
+}
+
+.outcome-box {
+    display: inline-block;
+    background-color: #fff;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 2px;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+.outcome-box .price {
+    display: block;
+    color: #007bff;
+    font-weight: bold;
+}
